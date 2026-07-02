@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00050F,50:0092FF,100:75F4FF&height=220&section=header&text=Hi%20There!%20I'm%20Fronzx17%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Dev%20•%20Mobile%20Dev%20•%20Graphic%20Designer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00050F,50:0092FF,100:75F4FF&height=220&section=header&text=Hi%20There!%20I'm%20Fronzx17%20💫&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Dev%20•%20Mobile%20Dev%20•%20Graphic%20Designer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="#">
