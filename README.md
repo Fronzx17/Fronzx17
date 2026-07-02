@@ -19,11 +19,21 @@
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif">
 
 ```yaml
-Nama         : Fronzx17
-Status       : University Student 🎓
-Fokus Studi  : Computer Science & Software Engineering
-Sedang Belajar: Web Development, Mobile Development, Graphic & Visual Design
-Ketertarikan : Coding ⚙️ | Design 🎨 | Problem Solving 🧩
+name: Fronzx17
+role: Informatics Engineering Student 🎓
+
+education:
+  major: Informatics Engineering
+
+currently_learning:
+  - Web Development 🌐
+  - Mobile Development 📱
+  - Graphic Design 🎨
+
+interests:
+  - Coding ⚙️
+  - UI/UX Design 🎨
+  - Problem Solving 🧩
 ```
 
 - 🔭 Saat ini fokus memperdalam **Web Development** & **Mobile Development**
@@ -77,14 +87,34 @@ Ketertarikan : Coding ⚙️ | Design 🎨 | Problem Solving 🧩
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/USERNAME" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
+</a>
 
-<br><i>*klik badge di atas untuk mengedit link sosial media kamu nanti</i>
+<a href="https://linkedin.com/in/USERNAME" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+</a>
 
+<a href="https://discord.com/users/USER_ID" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
+</a>
+
+<a href="mailto:email@example.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
+</a>
 </div>
+
+<br>
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fronzx17/Fronzx17/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fronzx17/Fronzx17/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fronzx17/Fronzx17/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+<br>
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Fronzx17/Fronzx17/snake-output/snake.svg" alt="Snake animation" />
 
 <br>
 
