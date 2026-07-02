@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00A8E8&height=220&section=header&text=Hi%20There!%20I'm%20Fronzx17%20💫&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Dev%20•%20Mobile%20Dev%20•%20Graphic%20Designer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00A8E8&height=220&section=header&text=Hi%20There!%20I'm%20Fronzx17%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Dev%20•%20Mobile%20Dev%20•%20Graphic%20Designer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="#">
@@ -16,20 +16,21 @@
 
 ## 🧭 About Me
 
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif">
 
 ```yaml
-Nama: Fronzx17
-Status: University Student 🎓
-Fokus Studi: Computer Science & Software Engineering
+Nama         : Fronzx17
+Status       : University Student 🎓
+Fokus Studi  : Computer Science & Software Engineering
 Sedang Belajar: Web Development, Mobile Development, Graphic & Visual Design
-Ketertarikan: Coding ⚙️ | Design 🎨 | Problem Solving 🧩
+Ketertarikan : Coding ⚙️ | Design 🎨 | Problem Solving 🧩
 ```
 
 - 🔭 Saat ini fokus memperdalam **Web Development** & **Mobile Development**
 - 🌱 Sedang belajar lebih dalam soal **desain visual & UI/UX**
 - 🎨 Suka mengeksplorasi tools desain grafis untuk membuat karya visual
 - 💬 Bisa diajak diskusi soal **programming**, **software design**, maupun **desain grafis**
-- ⚡ Fun fact: Saya suka menggabungkan sisi _logika (coding)_ dan _kreativitas (desain)_ dalam satu project!
+- ⚡ Fun fact: Saya suka menggabungkan sisi *logika (coding)* dan *kreativitas (desain)* dalam satu project!
 
 <br clear="right"/>
 
@@ -81,7 +82,7 @@ Ketertarikan: Coding ⚙️ | Design 🎨 | Problem Solving 🧩
 <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br><i>\*klik badge di atas untuk mengedit link sosial media kamu nanti</i>
+<br><i>*klik badge di atas untuk mengedit link sosial media kamu nanti</i>
 
 </div>
 
@@ -91,6 +92,20 @@ Ketertarikan: Coding ⚙️ | Design 🎨 | Problem Solving 🧩
 
 <div align="center">
 
-⭐️ _"Code with logic, design with heart."_ ⭐️
+⭐️ *"Code with logic, design with heart."* ⭐️
 
 </div>
+<!--
+**Fronzx17/Fronzx17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
