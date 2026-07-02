@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00A8E8&height=220&section=header&text=Hi%20There!%20I'm%20Fronzx17%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Dev%20•%20Mobile%20Dev%20•%20Graphic%20Designer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1656CC,50:0092FF,100:75F4FF&height=220&section=header&text=Hi%20There!%20I'm%20Fronzx17%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Dev%20•%20Mobile%20Dev%20•%20Graphic%20Designer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="#">
@@ -14,7 +14,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🧭 About Me
+## 👾 About Me
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif">
 
@@ -36,7 +36,7 @@ Ketertarikan : Coding ⚙️ | Design 🎨 | Problem Solving 🧩
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🤖 Tech Stack & Tools
 
 <div align="center">
 
