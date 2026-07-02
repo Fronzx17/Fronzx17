@@ -16,21 +16,20 @@
 
 ## 🧭 About Me
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif">
 
 ```yaml
-Nama         : Fronzx17
-Status       : University Student 🎓
-Fokus Studi  : Computer Science & Software Engineering
+Nama: Fronzx17
+Status: University Student 🎓
+Fokus Studi: Computer Science & Software Engineering
 Sedang Belajar: Web Development, Mobile Development, Graphic & Visual Design
-Ketertarikan : Coding ⚙️ | Design 🎨 | Problem Solving 🧩
+Ketertarikan: Coding ⚙️ | Design 🎨 | Problem Solving 🧩
 ```
 
 - 🔭 Saat ini fokus memperdalam **Web Development** & **Mobile Development**
 - 🌱 Sedang belajar lebih dalam soal **desain visual & UI/UX**
 - 🎨 Suka mengeksplorasi tools desain grafis untuk membuat karya visual
 - 💬 Bisa diajak diskusi soal **programming**, **software design**, maupun **desain grafis**
-- ⚡ Fun fact: Saya suka menggabungkan sisi *logika (coding)* dan *kreativitas (desain)* dalam satu project!
+- ⚡ Fun fact: Saya suka menggabungkan sisi _logika (coding)_ dan _kreativitas (desain)_ dalam satu project!
 
 <br clear="right"/>
 
@@ -82,7 +81,7 @@ Ketertarikan : Coding ⚙️ | Design 🎨 | Problem Solving 🧩
 <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br><i>*klik badge di atas untuk mengedit link sosial media kamu nanti</i>
+<br><i>\*klik badge di atas untuk mengedit link sosial media kamu nanti</i>
 
 </div>
 
@@ -92,6 +91,6 @@ Ketertarikan : Coding ⚙️ | Design 🎨 | Problem Solving 🧩
 
 <div align="center">
 
-⭐️ *"Code with logic, design with heart."* ⭐️
+⭐️ _"Code with logic, design with heart."_ ⭐️
 
 </div>
