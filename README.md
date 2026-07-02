@@ -86,24 +86,24 @@ interests:
 ## 🌐 Let's Connect
 
 <div align="center">
+  <a href="https://instagram.com/fronzx17" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" style="margin:0 10px;" />
+  </a>
 
-<a href="https://instagram.com/USERNAME" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
-</a>
+  <a href="https://linkedin.com/in/USERNAME" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" style="margin:0 10px;" />
+  </a>
 
-<a href="https://linkedin.com/in/USERNAME" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
-</a>
+  <a href="https://discord.com/users/USER_ID" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" style="margin:0 10px;" />
+  </a>
 
-<a href="https://discord.com/users/USER_ID" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
-</a>
-
-<a href="mailto:email@example.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
-</a>
+  <a href="mailto:fadjarbuwana77@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" style="margin:0 10px;" />
+  </a>
 </div>
 
+<br>
 <br>
 
 <picture data-importer="pacman">
@@ -113,9 +113,6 @@ interests:
 </picture>
 
 <br>
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Fronzx17/Fronzx17/snake-output/snake.svg" alt="Snake animation" />
-
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8E8,100:0F2027&height=120&section=footer" width="100%"/>
